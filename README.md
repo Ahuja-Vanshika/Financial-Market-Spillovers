@@ -1,4 +1,4 @@
-# Modeling Global Market Integration and Asymmetric Shock Transmission  
+# Financial Market SpillOvers 
 ## A US–India Time Series Analysis
 
 ## Overview
